@@ -47,7 +47,7 @@ The variables, `sonic_attended` (the number of students who attended the Sonic L
 
 ## 6.0 Problem 06 (3 Points)
 
-Calculate the average size of the events by using the `total_students` variable computed in Problem 05 and divide it by the number of events.
+Calculate the average size of the events by using the `total_students` variable computed in Problem 05 and divide it by the number of events. Assign the value to a new variable named `avg_event_size`
 
 :bulb: Consider using **floor division** and the pre-defined variable `num_events`.
 
