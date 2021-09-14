@@ -20,7 +20,7 @@ The city of Ann Arbor is home to several notable movie theaters. In addition to 
     :bulb: These variables should store the types of `michigan_theater`, `state_theater`, and `ann_arbor_theaters` respectively.
 
 ## Problem 02 (20 points)
-You have been provided with two `strings`, `movie_str_1` which represents the movies being shown this week at the `Michigan Theater` and `movie_str_2` which represents the movies being shown at the `State Theater`.
+You have been provided with two `strings`, `movies_str_1` which represents the movies being shown this week at the `Michigan Theater` and `movie_str_2` which represents the movies being shown at the `State Theater`.
 1. Using the `str` method `str.split()`, create a list called `michigan_theater_movies` that contains all of the titles of the movies in `movie_str_1`.
 2. Using the `str` method `str.split()`, create a list called `state_theater_movies` that contains all of the titles of the movies in `movie_str_2`.
 
