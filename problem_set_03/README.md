@@ -172,7 +172,7 @@ In this problem, you will implement a `while` loop (a.k.a. an indefinite loop).
 
 In this problem, you will be using a `for` loop and `if-elif` statements to create new lists with specific roles.
 
-1. Initialize an empty list called `consultant_sals`. Using a `for` loop and a conditional statement with an `in` operator, populate `dom_sals` with all **Consultant roles** from `sal_lists`. This is a greedy accumulator, meaning that it will take any list as long as it has the word **consultant**. **Economic Consultant** could be included, for example.  The output should resemble the following:
+1. Initialize an empty list called `consultant_sals`. Using a `for` loop and a conditional statement with an `in` operator, populate `consultant_sals` with all **Consultant roles** from `sal_lists`. This is a greedy accumulator, meaning that it will take any list as long as it has the word **consultant**. **Economic Consultant** could be included, for example.  The output should resemble the following:
 
    ```python
    [
@@ -184,7 +184,7 @@ In this problem, you will be using a `for` loop and `if-elif` statements to crea
 
    :bulb: Indexing may be required to access the job role within each list. When performing a case-insensitive comparison of two strings, convert the strings to lower case before performing the comparison.
 
-2. Initialize an empty list called `analyst_sals`. Using the same `for` loop from Problem 5.1 and an `elif` statement employing a comparison equal operator, populate `dom_sals` with **Analyst roles** from `sal_lists`. This is a non-greedy accumulator. This means that it will not take any lists that have words other than **Analyst** in the title. **Data Analyst** would **NOT** be included, for example. The output should resemble the following:
+2. Initialize an empty list called `analyst_sals`. Using the same `for` loop from Problem 5.1 and an `elif` statement employing a comparison equal operator, populate `analyst_sals` with **Analyst roles** from `sal_lists`. This is a non-greedy accumulator. This means that it will not take any lists that have words other than **Analyst** in the title. **Data Analyst** would **NOT** be included, for example. The output should resemble the following:
 
    ```python
    [
@@ -200,7 +200,7 @@ In this problem, you will be using a `for` loop and `if-elif` statements to crea
 
 In this problem, you will use a `for` loop to extract individual nested elements as opposed to whole lists.
 
-1. Initialize an integer called `max_analyst_sal`. Using a `for` loop and a conditional statement with an inequality, find the highest salary in `analyst_sals`. Assign this integer to `consultant_sals` in the loop.
+1. Initialize an integer called `max_analyst_sal`. Using a `for` loop and a conditional statement with an inequality, find the highest salary in `analyst_sals`. Assign this integer to `max_analyst_sal` in the loop.
 
    :bulb: Indexing may be required to access the salary within each list. Use the appropriate function to convert the salary to an integer. Assign the salary to a variable before comparing it to max_analyst_sal in the conditional statement.
 
@@ -232,7 +232,7 @@ In this problem, you will be using a `for` loop that doesn't loop through all el
    ]
    ```
 
-3. Initialize an empty string called `sal_too_low`. Using a `for` loop and an `else` statement, assign the remaining list to `sal_too_low` in the loop. The desired output of `sal_too_low` is 
+3. Initialize an empty list called `sal_too_low`. Using a `for` loop and an `else` statement, assign the remaining list to `sal_too_low` in the loop. The desired output of `sal_too_low` is
 
    ```python
    [
