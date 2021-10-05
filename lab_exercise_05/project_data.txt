@@ -1,0 +1,7 @@
+Project Type,Project Name,Project Goal
+Data Project,Patient Satisfaction Tableau Dashboard,Build a Tableau Dashboard to get information on patient satisfaction at multiple levels
+Archives Project,Detroit Archives Creation,Establish an archive to chronicle 20 years for the nonprofit organization
+Libraries Project,Design of University Library Website,Redesign of a university library website with a focus on accessibility
+UI/UX Project,Online Education Platform Development for K-12 students,Develop a UX/UI experience for a minimum viable product that can be user tested in student environments
+UI/UX Project,TimeBanks Website Updates,Upgrade and redesign the website for the nonprofit organization
+UI/UX Project,Website Rebrand and Redesign for Entrepreneurship Fund,Update the website to align with the next phase of growth for the organization
