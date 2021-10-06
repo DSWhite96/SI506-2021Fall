@@ -17,18 +17,8 @@ Write a function called `read_csv` that defines one parameter:
 ### Requirements
 This function should load a csv file and return its contents in a list of lists, where each list is one row from the csv file.
 
-Use `read_csv` to load `election_data_2021.csv` and `election_data_2017.csv` into variables called `raw_election_data_2021` and `raw_election_data_2017`, respectively. For your reference, `raw_election_data_2021` should look like this:
-```python
-    raw_election_data_2021 = [
-            ['Party', 'Seats', 'Affiliation'],
-            ['AfD ', '94', 'far right'],
-            ['SPD', '153', 'center Left'],
-            ['  Left', '69', 'FAR left'],
-            ['Greens', '67', 'left  '],
-            ['CDU/CSU  ', '246', 'center right'],
-            ['  FDP', '80', '  right']
-    ]
-```
+Use `read_csv` to load `election_data_2021.csv` and `election_data_2017.csv` into variables called `raw_election_data_2021` and `raw_election_data_2017`, respectively. Do not conduct any data cleaning in the `read_csv` function.
+
 
 ### Problem 02 (15 points)
 
@@ -45,17 +35,9 @@ This function will be used to create a **deep copy** of the data that was loaded
 
 :bulb: Data cleaning is a crucial step when working with any real-world data. It makes working with data easier and helps us avoid mistakes!
 
-Use `clean` to clean `raw_election_data_2021` and `raw_election_data_2017`. Store the cleaned version of these datasets in variables called `clean_election_data_2021` and `clean_election_data_2017`, respectively. For your reference, `clean_election_data_2021` should look like this:
+Use `clean` to clean `raw_election_data_2021` and `raw_election_data_2017`. Store the cleaned version of these datasets in variables called `clean_election_data_2021` and `clean_election_data_2017`, respectively. The clean data should look something like this: 
 ```python
-    clean_election_data_2021 = [
-            ['Party', 'Seats', 'Affiliation'],
-            ['SPD', 206, 'center left'],
-            ['CDU/CSU', 196, 'center right'],
-            ['FDP', 92, 'right'],
-            ['Left', 39, 'far left'],
-            ['Greens', 118, 'left'],
-            ['AfD', 83, 'far right']
-    ]
+['Party Name', 76, 'center left']
 ```
 
 :bulb: Be sure to use the cleaned data and not the raw data for future problems!
