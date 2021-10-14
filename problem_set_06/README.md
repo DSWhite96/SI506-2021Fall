@@ -31,7 +31,7 @@ Currently, for each streaming service we have the data stored in two separate li
 
     `ratings` (`list`): A list of IMDb ratings for the shows
 
-    This function should create a `deep copy` of the `shows` list and append to it a new column called `IMDd Rating`. This function should then loop through the `copy of shows` and append the rating of each show in the list. The function should then return the `copy of shows`.
+    This function should create a `deep copy` of the `shows` list and append to it a new column called `IMDb Rating`. This function should then loop through the `copy of shows` and append the rating of each show in the list. The function should then return the `copy of shows`.
 
     :bulb: There are several ways to approach this problem, one good way would be to use `nested loops` (consider `Problem Set 05`).
 
