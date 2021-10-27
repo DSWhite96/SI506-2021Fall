@@ -130,16 +130,18 @@ def main():
 
     # PROBLEM 3 (Optional Check)
 
+
     # PROBLEM 4
+
 
     # PROBLEM 5
 
+
     # PROBLEM 6
+
 
     # PROBLEM 7
 
-    # DO NOT EDIT
-    return (last_standing_keys_str, third_standing_values_str, tenth_race_result_kv_str)
 
 #DO NOT EDIT
 if __name__ == '__main__':
