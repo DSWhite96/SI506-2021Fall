@@ -143,7 +143,7 @@ Formula 1 has had many great World Championship winning teams and drivers from a
     
     1. Use a `for` loop with conditional statements to find the average points for each of the two nationalities that are passed in as arguments. Each country's average points score should be contained in its own variable, i.e. `nation1_avg` for `nationality1` and `nation2_avg` for `nationality2`.
 
-    2. Use conditional statements to determine the nationality with the greater point average. The winning nationality and its respective point average (rounded to two decimal places) should be returned as a tuple in the form:
+    2. Use conditional statements to determine the nationality with the greater point average. The winning nationality and its respective point average (rounded to one decimal place) should be returned as a tuple in the form:
 
     ```python
     (< nationality >, < nationx_avg >)
