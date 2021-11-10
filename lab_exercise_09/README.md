@@ -179,7 +179,7 @@ When instantiating the
     {
       "url": "https://swapi.py4e.com/api/people/1/",
       "name": "Luke Skywalker",
-      "birthyear": "19BBY",
+      "birth_year": "19BBY",
       "height": 172.0,
       "mass": 77.0,
       "homeworld": {
