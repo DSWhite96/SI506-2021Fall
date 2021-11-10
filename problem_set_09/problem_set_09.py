@@ -81,7 +81,7 @@ class Languages():
             This method takes no parameters
         Additional Attributes:
             language_database (dict): a dictionary of language information (set to an empty dictionary)
-            language_count (string): number of languages in the dictionary (set to 0)
+            language_count (int): number of languages in the dictionary (set to 0)
         Returns:
             None
         """
