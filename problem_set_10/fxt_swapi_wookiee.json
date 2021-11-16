@@ -1,0 +1,26 @@
+{
+    "name": "Wookiee",
+    "classification": "mammal",
+    "designation": "sentient",
+    "average_height": "210",
+    "skin_colors": "gray",
+    "hair_colors": "black, brown",
+    "eye_colors": "blue, green, yellow, brown, golden, red",
+    "average_lifespan": "400",
+    "homeworld": "https://swapi.py4e.com/api/planets/14/",
+    "language": "Shyriiwook",
+    "people": [
+      "https://swapi.py4e.com/api/people/13/",
+      "https://swapi.py4e.com/api/people/80/"
+    ],
+    "films": [
+      "https://swapi.py4e.com/api/films/1/",
+      "https://swapi.py4e.com/api/films/2/",
+      "https://swapi.py4e.com/api/films/3/",
+      "https://swapi.py4e.com/api/films/6/",
+      "https://swapi.py4e.com/api/films/7/"
+    ],
+    "created": "2014-12-10T16:44:31.486000Z",
+    "edited": "2014-12-20T21:36:42.142000Z",
+    "url": "https://swapi.py4e.com/api/species/3/"
+}

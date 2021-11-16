@@ -1,0 +1,17 @@
+[
+  {
+    "url": "https://swapi.py4e.com/api/planets/41/",
+    "name": "Tund",
+    "rotation_period": 48,
+    "orbital_period": 1770,
+    "diameter": 12190,
+    "climate": null,
+    "gravity": null,
+    "terrain": [
+      "barren",
+      "ash"
+    ],
+    "surface_water": null,
+    "population": 0
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "url": "https://swapi.py4e.com/api/planets/1/",
+    "name": "Tatooine",
+    "rotation_period": 23,
+    "orbital_period": 304,
+    "diameter": 10465,
+    "climate": [
+      "arid"
+    ],
+    "gravity": {
+      "measure": 1.0,
+      "unit": "standard"
+    },
+    "terrain": [
+      "desert"
+    ],
+    "surface_water": 1.0,
+    "population": 200000
+  },
+  {
+    "url": "https://swapi.py4e.com/api/planets/61/",
+    "name": "Jakku",
+    "rotation_period": null,
+    "orbital_period": null,
+    "diameter": null,
+    "climate": null,
+    "gravity": null,
+    "terrain": [
+      "desert"
+    ],
+    "surface_water": null,
+    "population": null
+  }
+]

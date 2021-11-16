@@ -1,0 +1,128 @@
+{
+  "biggest": [
+    {
+      "url": "https://swapi.py4e.com/api/planets/6/",
+      "name": "Bespin",
+      "rotation_period": 12,
+      "orbital_period": 5110,
+      "diameter": 118000,
+      "climate": [
+        "temperate"
+      ],
+      "gravity": {
+        "measure": 1.5,
+        "unit": "standard"
+      },
+      "terrain": [
+        "gas giant"
+      ],
+      "surface_water": 0.0,
+      "population": 6000000
+    }
+  ],
+  "smallest": [
+    {
+      "url": "https://swapi.py4e.com/api/planets/15/",
+      "name": "Polis Massa",
+      "rotation_period": 24,
+      "orbital_period": 590,
+      "diameter": 0,
+      "climate": [
+        "artificial temperate "
+      ],
+      "gravity": {
+        "measure": 0.56,
+        "unit": "standard"
+      },
+      "terrain": [
+        "airless asteroid"
+      ],
+      "surface_water": 0.0,
+      "population": 1000000
+    },
+    {
+      "url": "https://swapi.py4e.com/api/planets/18/",
+      "name": "Cato Neimoidia",
+      "rotation_period": 25,
+      "orbital_period": 278,
+      "diameter": 0,
+      "climate": [
+        "temperate",
+        "moist"
+      ],
+      "gravity": {
+        "measure": 1.0,
+        "unit": "standard"
+      },
+      "terrain": [
+        "mountains",
+        "fields",
+        "forests",
+        "rock arches"
+      ],
+      "surface_water": null,
+      "population": 10000000
+    },
+    {
+      "url": "https://swapi.py4e.com/api/planets/20/",
+      "name": "Stewjon",
+      "rotation_period": null,
+      "orbital_period": null,
+      "diameter": 0,
+      "climate": [
+        "temperate"
+      ],
+      "gravity": {
+        "measure": 1.0,
+        "unit": "standard"
+      },
+      "terrain": [
+        "grass"
+      ],
+      "surface_water": null,
+      "population": null
+    },
+    {
+      "url": "https://swapi.py4e.com/api/planets/29/",
+      "name": "Trandosha",
+      "rotation_period": 25,
+      "orbital_period": 371,
+      "diameter": 0,
+      "climate": [
+        "arid"
+      ],
+      "gravity": {
+        "measure": 0.62,
+        "unit": "standard"
+      },
+      "terrain": [
+        "mountains",
+        "seas",
+        "grasslands",
+        "deserts"
+      ],
+      "surface_water": null,
+      "population": 42000000
+    },
+    {
+      "url": "https://swapi.py4e.com/api/planets/30/",
+      "name": "Socorro",
+      "rotation_period": 20,
+      "orbital_period": 326,
+      "diameter": 0,
+      "climate": [
+        "arid"
+      ],
+      "gravity": {
+        "measure": 1.0,
+        "unit": "standard"
+      },
+      "terrain": [
+        "deserts",
+        "mountains"
+      ],
+      "surface_water": null,
+      "population": 300000000
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "url": "https://swapi.py4e.com/api/starships/2/",
+    "name": "CR90 corvette",
+    "model": "CR90 corvette",
+    "starship_class": "corvette",
+    "max_atmosphering_speed": 950,
+    "consumables": {
+      "interval": "year",
+      "value": 1
+    },
+    "hyperdrive_rating": 2.0
+  },
+  {
+    "url": "https://swapi.py4e.com/api/starships/3/",
+    "name": "Star Destroyer",
+    "model": "Imperial I-class Star Destroyer",
+    "starship_class": "Star Destroyer",
+    "max_atmosphering_speed": 975,
+    "consumables": {
+      "interval": "year",
+      "value": 2
+    },
+    "hyperdrive_rating": 2.0
+  },
+  {
+    "url": "https://swapi.py4e.com/api/starships/5/",
+    "name": "Sentinel-class landing craft",
+    "model": "Sentinel-class landing craft",
+    "starship_class": "landing craft",
+    "max_atmosphering_speed": 1000,
+    "consumables": {
+      "interval": "month",
+      "value": 1
+    },
+    "hyperdrive_rating": 1.0
+  },
+  {
+    "url": "https://swapi.py4e.com/api/starships/9/",
+    "name": "Death Star",
+    "model": "DS-1 Orbital Battle Station",
+    "starship_class": "Deep Space Mobile Battlestation",
+    "max_atmosphering_speed": null,
+    "consumables": {
+      "interval": "year",
+      "value": 3
+    },
+    "hyperdrive_rating": 4.0
+  },
+  {
+    "url": "https://swapi.py4e.com/api/starships/10/",
+    "name": "Millennium Falcon",
+    "model": "YT-1300 light freighter",
+    "starship_class": "Light freighter",
+    "max_atmosphering_speed": 1050,
+    "consumables": {
+      "interval": "month",
+      "value": 2
+    },
+    "hyperdrive_rating": 0.5
+  },
+  {
+    "url": "https://swapi.py4e.com/api/starships/11/",
+    "name": "Y-wing",
+    "model": "BTL Y-wing",
+    "starship_class": "assault starfighter",
+    "max_atmosphering_speed": 1000,
+    "consumables": {
+      "interval": "week",
+      "value": 1
+    },
+    "hyperdrive_rating": 1.0
+  },
+  {
+    "url": "https://swapi.py4e.com/api/starships/12/",
+    "name": "X-wing",
+    "model": "T-65 X-wing",
+    "starship_class": "Starfighter",
+    "max_atmosphering_speed": 1050,
+    "consumables": {
+      "interval": "week",
+      "value": 1
+    },
+    "hyperdrive_rating": 1.0
+  },
+  {
+    "url": "https://swapi.py4e.com/api/starships/13/",
+    "name": "TIE Advanced x1",
+    "model": "Twin Ion Engine Advanced x1",
+    "starship_class": "Starfighter",
+    "max_atmosphering_speed": 1200,
+    "consumables": {
+      "interval": "day",
+      "value": 5
+    },
+    "hyperdrive_rating": 1.0
+  },
+  {
+    "url": "https://swapi.py4e.com/api/starships/15/",
+    "name": "Executor",
+    "model": "Executor-class star dreadnought",
+    "starship_class": "Star dreadnought",
+    "max_atmosphering_speed": null,
+    "consumables": {
+      "interval": "year",
+      "value": 6
+    },
+    "hyperdrive_rating": 2.0
+  },
+  {
+    "url": "https://swapi.py4e.com/api/starships/17/",
+    "name": "Rebel transport",
+    "model": "GR-75 medium transport",
+    "starship_class": "Medium transport",
+    "max_atmosphering_speed": 650,
+    "consumables": {
+      "interval": "month",
+      "value": 6
+    },
+    "hyperdrive_rating": 4.0
+  }
+]

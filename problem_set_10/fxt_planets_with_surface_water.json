@@ -1,0 +1,480 @@
+[
+  {
+    "url": "https://swapi.py4e.com/api/planets/1/",
+    "name": "Tatooine",
+    "rotation_period": 23,
+    "orbital_period": 304,
+    "diameter": 10465,
+    "climate": [
+      "arid"
+    ],
+    "gravity": {
+      "measure": 1.0,
+      "unit": "standard"
+    },
+    "terrain": [
+      "desert"
+    ],
+    "surface_water": 1.0,
+    "population": 200000
+  },
+  {
+    "url": "https://swapi.py4e.com/api/planets/2/",
+    "name": "Alderaan",
+    "rotation_period": 24,
+    "orbital_period": 364,
+    "diameter": 12500,
+    "climate": [
+      "temperate"
+    ],
+    "gravity": {
+      "measure": 1.0,
+      "unit": "standard"
+    },
+    "terrain": [
+      "grasslands",
+      "mountains"
+    ],
+    "surface_water": 40.0,
+    "population": 2000000000
+  },
+  {
+    "url": "https://swapi.py4e.com/api/planets/3/",
+    "name": "Yavin IV",
+    "rotation_period": 24,
+    "orbital_period": 4818,
+    "diameter": 10200,
+    "climate": [
+      "temperate",
+      "tropical"
+    ],
+    "gravity": {
+      "measure": 1.0,
+      "unit": "standard"
+    },
+    "terrain": [
+      "jungle",
+      "rainforests"
+    ],
+    "surface_water": 8.0,
+    "population": 1000
+  },
+  {
+    "url": "https://swapi.py4e.com/api/planets/4/",
+    "name": "Hoth",
+    "rotation_period": 23,
+    "orbital_period": 549,
+    "diameter": 7200,
+    "climate": [
+      "frozen"
+    ],
+    "gravity": {
+      "measure": 1.1,
+      "unit": "standard"
+    },
+    "terrain": [
+      "tundra",
+      "ice caves",
+      "mountain ranges"
+    ],
+    "surface_water": 100.0,
+    "population": null
+  },
+  {
+    "url": "https://swapi.py4e.com/api/planets/5/",
+    "name": "Dagobah",
+    "rotation_period": 23,
+    "orbital_period": 341,
+    "diameter": 8900,
+    "climate": [
+      "murky"
+    ],
+    "gravity": null,
+    "terrain": [
+      "swamp",
+      "jungles"
+    ],
+    "surface_water": 8.0,
+    "population": null
+  },
+  {
+    "url": "https://swapi.py4e.com/api/planets/7/",
+    "name": "Endor",
+    "rotation_period": 18,
+    "orbital_period": 402,
+    "diameter": 4900,
+    "climate": [
+      "temperate"
+    ],
+    "gravity": {
+      "measure": 0.85,
+      "unit": "standard"
+    },
+    "terrain": [
+      "forests",
+      "mountains",
+      "lakes"
+    ],
+    "surface_water": 8.0,
+    "population": 30000000
+  },
+  {
+    "url": "https://swapi.py4e.com/api/planets/8/",
+    "name": "Naboo",
+    "rotation_period": 26,
+    "orbital_period": 312,
+    "diameter": 12120,
+    "climate": [
+      "temperate"
+    ],
+    "gravity": {
+      "measure": 1.0,
+      "unit": "standard"
+    },
+    "terrain": [
+      "grassy hills",
+      "swamps",
+      "forests",
+      "mountains"
+    ],
+    "surface_water": 12.0,
+    "population": 4500000000
+  },
+  {
+    "url": "https://swapi.py4e.com/api/planets/10/",
+    "name": "Kamino",
+    "rotation_period": 27,
+    "orbital_period": 463,
+    "diameter": 19720,
+    "climate": [
+      "temperate"
+    ],
+    "gravity": {
+      "measure": 1.0,
+      "unit": "standard"
+    },
+    "terrain": [
+      "ocean"
+    ],
+    "surface_water": 100.0,
+    "population": 1000000000
+  },
+  {
+    "url": "https://swapi.py4e.com/api/planets/11/",
+    "name": "Geonosis",
+    "rotation_period": 30,
+    "orbital_period": 256,
+    "diameter": 11370,
+    "climate": [
+      "temperate",
+      "arid"
+    ],
+    "gravity": {
+      "measure": 0.9,
+      "unit": "standard"
+    },
+    "terrain": [
+      "rock",
+      "desert",
+      "mountain",
+      "barren"
+    ],
+    "surface_water": 5.0,
+    "population": 100000000000
+  },
+  {
+    "url": "https://swapi.py4e.com/api/planets/12/",
+    "name": "Utapau",
+    "rotation_period": 27,
+    "orbital_period": 351,
+    "diameter": 12900,
+    "climate": [
+      "temperate",
+      "arid",
+      "windy"
+    ],
+    "gravity": {
+      "measure": 1.0,
+      "unit": "standard"
+    },
+    "terrain": [
+      "scrublands",
+      "savanna",
+      "canyons",
+      "sinkholes"
+    ],
+    "surface_water": 0.9,
+    "population": 95000000
+  },
+  {
+    "url": "https://swapi.py4e.com/api/planets/14/",
+    "name": "Kashyyyk",
+    "rotation_period": 26,
+    "orbital_period": 381,
+    "diameter": 12765,
+    "climate": [
+      "tropical"
+    ],
+    "gravity": {
+      "measure": 1.0,
+      "unit": "standard"
+    },
+    "terrain": [
+      "jungle",
+      "forests",
+      "lakes",
+      "rivers"
+    ],
+    "surface_water": 60.0,
+    "population": 45000000
+  },
+  {
+    "url": "https://swapi.py4e.com/api/planets/22/",
+    "name": "Corellia",
+    "rotation_period": 25,
+    "orbital_period": 329,
+    "diameter": 11000,
+    "climate": [
+      "temperate"
+    ],
+    "gravity": {
+      "measure": 1.0,
+      "unit": "standard"
+    },
+    "terrain": [
+      "plains",
+      "urban",
+      "hills",
+      "forests"
+    ],
+    "surface_water": 70.0,
+    "population": 3000000000
+  },
+  {
+    "url": "https://swapi.py4e.com/api/planets/23/",
+    "name": "Rodia",
+    "rotation_period": 29,
+    "orbital_period": 305,
+    "diameter": 7549,
+    "climate": [
+      "hot"
+    ],
+    "gravity": {
+      "measure": 1.0,
+      "unit": "standard"
+    },
+    "terrain": [
+      "jungles",
+      "oceans",
+      "urban",
+      "swamps"
+    ],
+    "surface_water": 60.0,
+    "population": 1300000000
+  },
+  {
+    "url": "https://swapi.py4e.com/api/planets/26/",
+    "name": "Bestine IV",
+    "rotation_period": 26,
+    "orbital_period": 680,
+    "diameter": 6400,
+    "climate": [
+      "temperate"
+    ],
+    "gravity": null,
+    "terrain": [
+      "rocky islands",
+      "oceans"
+    ],
+    "surface_water": 98.0,
+    "population": 62000000
+  },
+  {
+    "url": "https://swapi.py4e.com/api/planets/27/",
+    "name": "Ord Mantell",
+    "rotation_period": 26,
+    "orbital_period": 334,
+    "diameter": 14050,
+    "climate": [
+      "temperate"
+    ],
+    "gravity": {
+      "measure": 1.0,
+      "unit": "standard"
+    },
+    "terrain": [
+      "plains",
+      "seas",
+      "mesas"
+    ],
+    "surface_water": 10.0,
+    "population": 4000000000
+  },
+  {
+    "url": "https://swapi.py4e.com/api/planets/31/",
+    "name": "Mon Cala",
+    "rotation_period": 21,
+    "orbital_period": 398,
+    "diameter": 11030,
+    "climate": [
+      "temperate"
+    ],
+    "gravity": {
+      "measure": 1.0,
+      "unit": "standard"
+    },
+    "terrain": [
+      "oceans",
+      "reefs",
+      "islands"
+    ],
+    "surface_water": 100.0,
+    "population": 27000000000
+  },
+  {
+    "url": "https://swapi.py4e.com/api/planets/32/",
+    "name": "Chandrila",
+    "rotation_period": 20,
+    "orbital_period": 368,
+    "diameter": 13500,
+    "climate": [
+      "temperate"
+    ],
+    "gravity": {
+      "measure": 1.0,
+      "unit": "standard"
+    },
+    "terrain": [
+      "plains",
+      "forests"
+    ],
+    "surface_water": 40.0,
+    "population": 1200000000
+  },
+  {
+    "url": "https://swapi.py4e.com/api/planets/33/",
+    "name": "Sullust",
+    "rotation_period": 20,
+    "orbital_period": 263,
+    "diameter": 12780,
+    "climate": [
+      "superheated"
+    ],
+    "gravity": {
+      "measure": 1.0,
+      "unit": "standard"
+    },
+    "terrain": [
+      "mountains",
+      "volcanoes",
+      "rocky deserts"
+    ],
+    "surface_water": 5.0,
+    "population": 18500000000
+  },
+  {
+    "url": "https://swapi.py4e.com/api/planets/37/",
+    "name": "Ryloth",
+    "rotation_period": 30,
+    "orbital_period": 305,
+    "diameter": 10600,
+    "climate": [
+      "temperate",
+      "arid",
+      "subartic"
+    ],
+    "gravity": {
+      "measure": 1.0,
+      "unit": "standard"
+    },
+    "terrain": [
+      "mountains",
+      "valleys",
+      "deserts",
+      "tundra"
+    ],
+    "surface_water": 5.0,
+    "population": 1500000000
+  },
+  {
+    "url": "https://swapi.py4e.com/api/planets/43/",
+    "name": "Cerea",
+    "rotation_period": 27,
+    "orbital_period": 386,
+    "diameter": null,
+    "climate": [
+      "temperate"
+    ],
+    "gravity": {
+      "measure": 1.0,
+      "unit": "standard"
+    },
+    "terrain": [
+      "verdant"
+    ],
+    "surface_water": 20.0,
+    "population": 450000000
+  },
+  {
+    "url": "https://swapi.py4e.com/api/planets/44/",
+    "name": "Glee Anselm",
+    "rotation_period": 33,
+    "orbital_period": 206,
+    "diameter": 15600,
+    "climate": [
+      "tropical",
+      "temperate"
+    ],
+    "gravity": {
+      "measure": 1.0,
+      "unit": "standard"
+    },
+    "terrain": [
+      "lakes",
+      "islands",
+      "swamps",
+      "seas"
+    ],
+    "surface_water": 80.0,
+    "population": 500000000
+  },
+  {
+    "url": "https://swapi.py4e.com/api/planets/55/",
+    "name": "Ojom",
+    "rotation_period": null,
+    "orbital_period": null,
+    "diameter": null,
+    "climate": [
+      "frigid"
+    ],
+    "gravity": null,
+    "terrain": [
+      "oceans",
+      "glaciers"
+    ],
+    "surface_water": 100.0,
+    "population": 500000000
+  },
+  {
+    "url": "https://swapi.py4e.com/api/planets/57/",
+    "name": "Muunilinst",
+    "rotation_period": 28,
+    "orbital_period": 412,
+    "diameter": 13800,
+    "climate": [
+      "temperate"
+    ],
+    "gravity": {
+      "measure": 1.0,
+      "unit": "standard"
+    },
+    "terrain": [
+      "plains",
+      "forests",
+      "hills",
+      "mountains"
+    ],
+    "surface_water": 25.0,
+    "population": 5000000000
+  }
+]
